@@ -19,6 +19,7 @@ numSum = getSum(2, 3)
 print(numSum)
 
 def addOneToNum(num):
+  # there's no increment and decrement operator
   num += 1
   return num
 
