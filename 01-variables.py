@@ -20,7 +20,7 @@ VARIABLE RULES:
 # is_cool = True    # bool        # In JS , boolean values start with lower case
 
 # Multiple assigment
-x, y, name, is_cool = (1, 2.5, 'Brad', True)
+x, y, name, is_cool = (1, 2.5, 'vivesh', True)
 
 print(x, y, name, is_cool)    # In JS , we use console.log(x , y , name , is_cool);
 
